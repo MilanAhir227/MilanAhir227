@@ -7,7 +7,7 @@
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <!-- <br />**I have 5+ Years of experience in full-stack web-dev.**-->
 
-<img src="https://github-readme-stats.vercel.app/api/?username=milanahir227&show_icons=true" alt="git stats">
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=milanahir227&show_icons=true" alt="git stats"> -->
 <br />
 
 ## Fun Fact 🎈:
@@ -33,12 +33,12 @@
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingstella&show_icons=true&locale=en" alt="codingstella" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanahir227&show_icons=true&locale=en" alt="codingstella" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milanahir227&" alt="codingstella" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanahir227" alt="codingstella" /></a> </p>
 
 
 ## 🌏 **CONNECT WITH ME**
