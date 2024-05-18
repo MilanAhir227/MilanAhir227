@@ -219,11 +219,6 @@
 ![](https://img.shields.io/github/followers/milanahir227?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 
- ## 💰 You can help me by Donating
-
-<br/>
- 
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=codingstella&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/codingstella)
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingstella&theme=onedark) -->
 
